@@ -1,5 +1,5 @@
 # Internet Of Things
 
 ## Members:
-Lasse A. Frederiksen
-Kim C. Nielsen
+- Lasse A. Frederiksen
+- Kim C. Nielsen
