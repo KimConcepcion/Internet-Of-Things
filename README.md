@@ -1,4 +1,4 @@
-# Internet Of Things
+# Internet Of Things Projet Repository
 See Project section:
 - https://github.com/KimConcepcion/Internet-Of-Things/projects
 
