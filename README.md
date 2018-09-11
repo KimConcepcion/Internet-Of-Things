@@ -22,6 +22,7 @@ Dørklokke
 - Sender en mail om denne event.
 - Pauser musik via spotify.
 - Integrere f.eks. google kalender
+
 Kan bruges hvis man gerne vil se hvem der ringer på eller hvis man ikke er hjemme.
 
 Starte computer/kaffemaskine
