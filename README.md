@@ -26,6 +26,8 @@ Starte computer/kaffemaskine
 - Når man er på vej hjemad 
 - Så tænder systemet og sætter en lille pind ud og tænder for noget
 
-
+Sikkerhedssystem 
+- Der er en sensor ved fx døren eller et vindue
+- Hvis sensoren bliver brudt så sender den en mail 
 
 
