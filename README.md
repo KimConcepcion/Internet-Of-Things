@@ -6,4 +6,4 @@ See Project section:
 - Lasse A. Frederiksen
 - Kim C. Nielsen
 
-http://pure.au.dk/portal/files/41795183/henning1.JPG
+(http://pure.au.dk/portal/files/41795183/henning1.JPG)
