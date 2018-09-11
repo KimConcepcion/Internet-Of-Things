@@ -21,3 +21,11 @@ Dørklokke
 - Kamera som tager billede af person.
 - Sender en mail om denne event.
 Kan bruges hvis man gerne vil se hvem der ringer på eller hvis man ikke er hjemme.
+
+Starte computer/kaffemaskine
+- Når man er på vej hjemad 
+- Så tænder systemet og sætter en lille pind ud og tænder for noget
+
+
+
+
