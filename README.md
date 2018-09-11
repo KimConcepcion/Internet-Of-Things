@@ -2,10 +2,10 @@
 IOT Project ideas:
 
 Statusopdatering på indhold i køleskab:
-	- Kan sende en forespørgsel til køleskab om at få kendskab til køleskabets indhold.
-	- Så slipper man for at køre hjem og man ved hvad man skal handle efter.
-	- Screenshot af indhold.
-	- Sende en mail fra køleskab til telefon. Minder om mobil udskrift via en printer.
+- Kan sende en forespørgsel til køleskab om at få kendskab til køleskabets indhold.
+- Så slipper man for at køre hjem og man ved hvad man skal handle efter.
+- Screenshot af indhold.
+- Sende en mail fra køleskab til telefon. Minder om mobil udskrift via en printer.
 	
 Vejrstation:
 - Vejrrapport
