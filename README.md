@@ -6,4 +6,4 @@ See Project section:
 - Lasse A. Frederiksen
 - Kim C. Nielsen
 
-![alt text](https://potentiallabs.com/cart/image/cache/Photon2-autoxauto-800x800.jpg)
+![alt text](https://shop13030.hstatic.dk/upload_dir/shop/13774-01_16.w610.h610.fill.jpg)
