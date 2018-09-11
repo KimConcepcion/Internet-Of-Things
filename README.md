@@ -6,4 +6,5 @@ See Project section:
 - Lasse A. Frederiksen
 - Kim C. Nielsen
 
-(http://pure.au.dk/portal/files/41795183/henning1.JPG)
+![Image of Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
