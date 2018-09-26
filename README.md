@@ -1,6 +1,6 @@
 # Internet Of Things Project Repository - Smart DoorBell:
 See Project section:
-- https://github.com/KimConcepcion/Internet-Of-Things/projects
+- https://github.com/KimConcepcion/Internet-Of-Things/wiki/Project-Description
 
 ## Members:
 - Lasse A. Frederiksen
