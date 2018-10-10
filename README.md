@@ -7,4 +7,5 @@ See Project section:
 - Kim C. Nielsen
 - Mads H. Villadsen
 
-![alt text](https://shop13030.hstatic.dk/upload_dir/shop/13774-01_16.w610.h610.fill.jpg)
+Video of project presentation:
+https://www.youtube.com/watch?v=rWO8gzwqNs8&t=1s
