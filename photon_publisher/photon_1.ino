@@ -1,11 +1,26 @@
 
-//  Includes:
-#include "Camera.h"
-#include "Speaker.h"
-#include "Mail.h"
-
 //  Pins:
 int pushPin = D0;
+
+void playSound()
+{
+  
+}
+
+void setReceiver()
+{
+  
+}
+
+void send(char *msg)
+{
+  
+}
+
+void takePhoto()
+{
+  
+}
 
 void setup()
 {
