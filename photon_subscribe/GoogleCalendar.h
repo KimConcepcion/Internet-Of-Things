@@ -1,0 +1,3 @@
+
+//	Prototypes:
+int getEvent();
