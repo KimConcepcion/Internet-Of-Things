@@ -7,23 +7,25 @@ void buttonHandler(const char *event, const char *data)
 {
 	if(strcmp(data, "Pressed") == 0)
 	{
-		//playSound();
+		playSound();
 	}
 
 	else if (strcmp(data, "unPressed") == 0)
 	{
-		//stopSound();
+		stopSound();
 	}
 }
 
 //	Speaker functions:
 void playSound()
 {
+	//	Turn the Speaker on:
 	digitalWrite(D1, HIGH);
 }
 
 void stopSound()
 {
+	//	Turn the speaker off:
 	digitalWrite(D1, LOW);
 }
 
@@ -33,14 +35,9 @@ void stopMusic()
 
 }
 
-//	Google Calendar functions:
-void getEvent()
-{
-
-}
-
 void setup()
 {
+	//	Setup the serial data transmission and baud rate:
 	Serial.begin(9600);
 
 	//	Setup HW
@@ -50,7 +47,4 @@ void setup()
 	Particle.subscribe("buttonState", buttonHandler);
 }
 
-void loop()
-{
-
-}
+void loop(){}
