@@ -5,10 +5,10 @@ See Project section:
 Wiki:
 - https://github.com/KimConcepcion/Internet-Of-Things/wiki
 
+Video of project presentation:
+https://www.youtube.com/watch?v=rWO8gzwqNs8&t=1s
+
 ## Members:
 - Lasse A. Frederiksen
 - Kim C. Nielsen
 - Mads H. Villadsen
-
-Video of project presentation:
-https://www.youtube.com/watch?v=rWO8gzwqNs8&t=1s
