@@ -2,6 +2,9 @@
 See Project section:
 - https://github.com/KimConcepcion/Internet-Of-Things/wiki/Project-Description
 
+Wiki:
+- https://github.com/KimConcepcion/Internet-Of-Things/wiki
+
 ## Members:
 - Lasse A. Frederiksen
 - Kim C. Nielsen
