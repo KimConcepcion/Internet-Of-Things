@@ -1,5 +1,4 @@
 # Internet-Of-Things
-📡IOT Project
 
 ## Wiki page for project:
 - https://github.com/KimConcepcion/Internet-Of-Things/wiki
