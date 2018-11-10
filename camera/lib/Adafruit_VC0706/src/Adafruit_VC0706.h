@@ -2,7 +2,7 @@
 //#include "Particle.h"
 #include "ParticleSoftSerial.h"
 
-//  Hash commands for interfacing with camera - can be found in datasheet:
+//  Hex commands for interfacing with camera - can be found in datasheet:
 #define VC0706_RESET  0x26
 #define VC0706_GEN_VERSION 0x11
 #define VC0706_SET_PORT 0x24
