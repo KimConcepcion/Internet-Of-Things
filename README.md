@@ -1,5 +1,10 @@
 # Internet-Of-Things
 
+## Members:
+* Lasse A. Frederiksen
+* Kim C. Nielsen
+* Mads H. Villadsen
+
 ## Wiki page for project:
 - https://github.com/KimConcepcion/Internet-Of-Things/wiki
 
