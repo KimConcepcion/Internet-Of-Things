@@ -1,4 +1,4 @@
-bool homeState = false;
+bool homeState = true;
 
 void setup() 
 {
