@@ -13,7 +13,7 @@ void setup() {
   // myHandler() is declared later in this app.
 }
 
-
+//  Loop function
 void loop() {
   
 }
