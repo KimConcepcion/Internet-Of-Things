@@ -14,7 +14,7 @@ void setup() {
 }
 
 void loop() {
-    if((digitalRead(button) == HIGH) && (homeState = true)){
+    if((digitalRead(button) == HIGH) && (homeState == true)){
         Particle.publish("DoorBell");
         delay(500);
     }
