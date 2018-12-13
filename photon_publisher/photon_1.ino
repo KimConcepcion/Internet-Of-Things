@@ -1,12 +1,13 @@
+bool homeState = true;
 
 //  Pins:
 int button = D3;
 
 void setup() {
 
-	//  Subscribe to IFTTT events:
-    //Particle.subscribe("Start_Event", startEvent);
-    //Particle.subscribe("End_Event", endEvent);
+    //  Subscribe to IFTTT events:
+    Particle.subscribe("Start_Event", startEvent);
+    Particle.subscribe("End_Event", endEvent);
 
     Serial.begin(9600);
     pinMode(button, INPUT);
@@ -19,7 +20,6 @@ void loop() {
     }
 }
 
-/*
 //  Event handler for started events:
 void startEvent(const char *event, const char *data)
 {
@@ -39,4 +39,3 @@ void endEvent(const char *event, const char *data)
         homeState = true;
     }
 }
-*/
